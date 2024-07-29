@@ -104,6 +104,9 @@ button{
     color: #3b3737;
  
 }
+.btn:hover{
+    border: 2px solid #FFFFFF;
+}
 .btn img{
     width: 25px;
    
