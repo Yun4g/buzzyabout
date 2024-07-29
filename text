@@ -1,0 +1,38 @@
+<use href="#svg12006285087"></use>
+document.getElementById('toggle').addEventListener('change', function() { var
+content = document.getElementById('content'); if (this.checked) {
+content.style.backgroundColor = 'black'; } else { content.style.backgroundColor
+= '#e67e22'; } });
+://framerusercontent.com/images/UqAxogIOVemTYpRZUMjjRJPyCU.png 200 avif
+(index):0 (memory cache) 0 ms ImageVbM1mKoSjOS3cJXDOVg73dFi4.png
+https://framerusercontent.com/images/VbM1mKoSjOS3cJXDOVg73dFi4.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 269 ms ImageVbM1mKoSjOS3cJXDOVg73dFi4.png
+https://framerusercontent.com/images/VbM1mKoSjOS3cJXDOVg73dFi4.png 200 avif
+(index):0 (memory cache) 0 ms ImagebgYb3oqR9Mg8oowTuzEvb04UI.png
+https://framerusercontent.com/images/bgYb3oqR9Mg8oowTuzEvb04UI.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 8 ms ImagebgYb3oqR9Mg8oowTuzEvb04UI.png
+https://framerusercontent.com/images/bgYb3oqR9Mg8oowTuzEvb04UI.png 200 avif
+(index):0 (memory cache) 0 ms ImagegAuqRnuXMRUlbvCuLPx6Pw3MHY.png
+https://framerusercontent.com/images/gAuqRnuXMRUlbvCuLPx6Pw3MHY.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 7 ms ImagegAuqRnuXMRUlbvCuLPx6Pw3MHY.png
+https://framerusercontent.com/images/gAuqRnuXMRUlbvCuLPx6Pw3MHY.png 200 avif
+(index):0 (memory cache) 0 ms ImagegLE03XVGKRIzr7uaRXeDKdDExo.png
+https://framerusercontent.com/images/gLE03XVGKRIzr7uaRXeDKdDExo.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 1 ms ImagegLE03XVGKRIzr7uaRXeDKdDExo.png
+https://framerusercontent.com/images/gLE03XVGKRIzr7uaRXeDKdDExo.png 200 avif
+(index):0 (memory cache) 0 ms ImagehGd2NDz1kfPdxX4GuxSrK8l5A.png
+https://framerusercontent.com/images/hGd2NDz1kfPdxX4GuxSrK8l5A.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 9 ms ImagehGd2NDz1kfPdxX4GuxSrK8l5A.png
+https://framerusercontent.com/images/hGd2NDz1kfPdxX4GuxSrK8l5A.png 200 avif
+(index):0 (memory cache) 0 ms ImagektvzXcDX3F4oQuahc9QUZ9EafQ.png
+https://framerusercontent.com/images/ktvzXcDX3F4oQuahc9QUZ9EafQ.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 268 ms ImagektvzXcDX3F4oQuahc9QUZ9EafQ.png
+https://framerusercontent.com/images/ktvzXcDX3F4oQuahc9QUZ9EafQ.png 200 avif
+(index):0 (memory cache) 0 ms ImageovyDQvcWE2ZzxO9YYkLYwhD3tg0.png
+https://framerusercontent.com/images/ovyDQvcWE2ZzxO9YYkLYwhD3tg0.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 6 ms ImageovyDQvcWE2ZzxO9YYkLYwhD3tg0.png
+https://framerusercontent.com/images/ovyDQvcWE2ZzxO9YYkLYwhD3tg0.png 200 avif
+(index):0 (memory cache) 0 ms Images0qf9tMV8AGVqoCxFBhQXcVjeuQ.png
+https://framerusercontent.com/images/s0qf9tMV8AGVqoCxFBhQXcVjeuQ.png 200 avif
+chunk-KCFTZB2T.mjs:16 (disk cache) 7 ms Images0qf9tMV8AGVqoCxFBhQXcVjeuQ.png
+https://framerusercontent.com/images/s0qf9tMV8AGVqoCxFBhQXcVjeuQ.png
