@@ -102,6 +102,7 @@ button{
     border-radius: 30px;
     cursor: pointer;
     color: #3b3737;
+    transition: 3s;
  
 }
 .btn:hover{
